@@ -5,9 +5,11 @@ Hi! I’m Jem and this is my Unwinding Page
 ### Unwinding Page
 
 ```
-[My Spotify Link](https://open.spotify.com/playlist/365TpGuGeFvhEkR4QM3yvN?si=8d136582d44b4fc1&nd=1)
+
+
 
 ```
+![Computer Typing GIF - Computer Typing Aesthetic - Descubre   Comparte GIFs (1)](https://user-images.githubusercontent.com/99859441/159720231-aaafa902-1880-49ae-bef1-9bc057f4ff9c.gif)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
